@@ -1,0 +1,16 @@
+{
+  "name": "eggdemo",
+  "version": "1.0.0",
+  "description": "for interview",
+  "main": "index.js",
+  "repository": "https://github.com/LinkADSL/vueDemo.git",
+  "author": "LinkADSL <lan_stone@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "dependencies": {
+    "egg": "^2.25.0",
+    "egg-bin": "^4.14.0"
+  }
+}
